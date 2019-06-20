@@ -6146,10 +6146,6 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue:
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.1.6.tgz#2fc0024c07479ac6bc7d34a2cd5ef9ca5e90b143"
-
 vue-hot-reload-api@^2.0.1:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.0.6.tgz#817d4bfb30f55428aa1012d029499e07f3147d21"
@@ -6187,9 +6183,9 @@ vue-style-loader@^1.0.0:
   dependencies:
     loader-utils "^0.2.7"
 
-vue-template-compiler:
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.1.6.tgz#f96f968652fc1e861bb0052f61993ba1fdc18ad3"
+vue-template-compiler@^2.1.6:
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vue-template-compiler/-/vue-template-compiler-2.6.10.tgz#323b4f3495f04faa3503337a82f5d6507799c9cc"
   dependencies:
     de-indent "^1.0.2"
     he "^1.1.0"
@@ -6197,6 +6193,10 @@ vue-template-compiler:
 vue-template-es2015-compiler@^1.2.2:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.4.0.tgz#7b88853ca4bf8d84ae54ab9e56771de271e60198"
+
+vue@^2.1.6:
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
 
 vuex-router-sync@next:
   version "3.0.0"
