@@ -60,7 +60,7 @@
     "hint.css": "^2.4.1",
     "jest-cli": "^15.1.1",
     "raw-loader": "^0.5.1",
-    "url-loader": "^0.5.7",
+    "url-loader": "^2.0.0",
     "vbuild": "^4.3.2",
     "vue-loader": "^10.0.2",
     "vue-template-compiler": "^2.1.6"
