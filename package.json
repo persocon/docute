@@ -58,7 +58,7 @@
     "eslint-config-rem": "^2.0.2",
     "eslint-plugin-vue": "^1.0.0",
     "hint.css": "^2.4.1",
-    "jest-cli": "^15.1.1",
+    "jest-cli": "^24.8.0",
     "raw-loader": "^0.5.1",
     "url-loader": "^0.5.7",
     "vbuild": "^4.3.2",
